@@ -1,0 +1,23 @@
+safe: true
+permalink: /:title.html
+exclude: [ assets ]
+markdown: kramdown
+
+default_theme: yandex
+default_width: 792
+default_lang: ru
+default_body_class: list
+
+kramdown:
+  enable_coderay: false
+  input: GFM
+  syntax_highlighter: rouge
+
+author:
+    name: Петр Лаптев
+    position: Руководитель разработки moscowfresh
+    company:
+        name: MoscowFresh
+        url:  http://www.moscowfresh.ru/
+
+progress: true

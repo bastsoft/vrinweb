@@ -1,0 +1,11 @@
+{
+  "name": "innopolis-hackthon",
+  "scripts": {
+    "start": "rvm use 2.2.5; jekyll serve;",
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-rigger": "*"
+  }
+}

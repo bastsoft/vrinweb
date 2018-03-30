@@ -1,0 +1,2 @@
+## ![](pictures/redsquer.png)
+{:.cover}
